@@ -1,3 +1,5 @@
 # Test_hacktober
 
-'''Bhutti ki jai ho'''
+```python
+print("Ishant ki jai ho")
+```
